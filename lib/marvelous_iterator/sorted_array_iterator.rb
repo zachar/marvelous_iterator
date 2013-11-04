@@ -1,4 +1,4 @@
-require File.dirname(__FILE__) + 'array_iterator.rb'
+require File.dirname(__FILE__) + '/array_iterator.rb'
 
 class SortedArrayIterator < ArrayIterator
   def initialize(array)
